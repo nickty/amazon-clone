@@ -11,15 +11,16 @@ function Home() {
                 <div className="home__row">
                     <Product title="Power Bank" price="20.00" image="https://m.media-amazon.com/images/I/31dgS1tTXhL._AC_SR160,160_.jpg" rating={5} />
                     <Product title="Power Bank" price="20.00" image="https://m.media-amazon.com/images/I/31dgS1tTXhL._AC_SR160,160_.jpg" rating={5} />
+                    
                    
                 </div>
 
-                <div className="homr__row">
-                <Product title="Power Bank" price="20.00" image="https://m.media-amazon.com/images/I/31dgS1tTXhL._AC_SR160,160_.jpg" rating={5} />
-                <Product title="Power Bank" price="20.00" image="https://m.media-amazon.com/images/I/31dgS1tTXhL._AC_SR160,160_.jpg" rating={5} />
-                <Product title="Power Bank" price="20.00" image="https://m.media-amazon.com/images/I/31dgS1tTXhL._AC_SR160,160_.jpg" rating={5} />
+                <div className="home__row">
+                    <Product title="Power Bank" price="20.00" image="https://m.media-amazon.com/images/I/31dgS1tTXhL._AC_SR160,160_.jpg" rating={5} />
+                    <Product title="Power Bank" price="20.00" image="https://m.media-amazon.com/images/I/31dgS1tTXhL._AC_SR160,160_.jpg" rating={5} />
+                    <Product title="Power Bank" price="20.00" image="https://m.media-amazon.com/images/I/31dgS1tTXhL._AC_SR160,160_.jpg" rating={5} />
                 </div>
-                <div className="homr__row">
+                <div className="home__row">
                 <Product title="Power Bank" price="20.00" image="https://m.media-amazon.com/images/I/31dgS1tTXhL._AC_SR160,160_.jpg" rating={5} />
                 </div>
             </div>
